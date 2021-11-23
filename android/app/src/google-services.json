@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754036327959",
+    "project_id": "mkkim-app",
+    "storage_bucket": "mkkim-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754036327959:android:fe7ad5c762412d8472be52",
+        "android_client_info": {
+          "package_name": "com.pushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754036327959-60q6m5977mm8pqlgo8e0sphnd8at53gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pushapp",
+            "certificate_hash": "bb6d8de582dbdcb4c651a8b66e12805353e78877"
+          }
+        },
+        {
+          "client_id": "754036327959-26qdrt4m4ohhq0rs7ab7lqvg856vs4tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3zvvqwBMtRAxBUQtIE5wlsx8e6x0e9YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754036327959-26qdrt4m4ohhq0rs7ab7lqvg856vs4tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
